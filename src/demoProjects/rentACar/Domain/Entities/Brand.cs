@@ -13,6 +13,7 @@ namespace Domain.Entities
 
         public Brand()
         {
+            //rest
         }
 
         public Brand(int id, string name):this()
